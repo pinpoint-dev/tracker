@@ -19,6 +19,15 @@ This repository contains all the KiCAD EDA files and Fusion 360 CAD designs for 
 - `LICENSE` contains the license information for the repository
 - `README.md` contains the information about the repository
 
+### Board To-Do
+- [x] battery holder
+- [x] mounting holes
+- [x] SWD connector
+- [x] piezo buzzer
+- [ ] USB interface
+- [ ] NFC support
+- [ ] RGB led
+
 ### License
 
 This project is licensed under the TAPR Open Hardware License. See [LICENSE.txt](/LICENSE.txt) for more information.
