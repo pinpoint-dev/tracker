@@ -24,9 +24,8 @@ This repository contains all the KiCAD EDA files and Fusion 360 CAD designs for 
 - [x] mounting holes
 - [x] SWD connector
 - [x] piezo buzzer
-- [ ] USB interface
-- [ ] NFC support
-- [ ] RGB led
+- [x] USB interface
+- [x] RGB led
 
 ### License
 
