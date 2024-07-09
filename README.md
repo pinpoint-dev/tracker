@@ -26,6 +26,7 @@ This repository contains all the KiCAD EDA files and Fusion 360 CAD designs for 
 - [x] piezo buzzer
 - [x] USB interface
 - [x] RGB led
+- [x] Push button
 
 ### License
 

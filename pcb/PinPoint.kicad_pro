@@ -62,7 +62,7 @@
         "items_not_allowed|100146000|37782215|6149684c-0ad4-400b-8615-befc7c3d453c|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|100442124|37795494|5445b461-800e-41a5-9a2d-9b2142f9cb87|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|100937095|37300519|9a3f43bf-37f4-4342-94d1-836efe72852c|00000000-0000-0000-0000-000000000000",
-        "items_not_allowed|101035648|34606000|9bdc23b1-e4c2-47da-947b-3a335d8b0449|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|101120500|34606000|9bdc23b1-e4c2-47da-947b-3a335d8b0449|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|106750000|32000000|e7fbe8ee-9ca3-47b6-9251-cd0f6a5d912c|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|106750000|66250000|121d0da1-cfe4-470a-a550-87262ec16652|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|97737437|36611089|9bdc23b1-e4c2-47da-947b-3a335d8b0449|00000000-0000-0000-0000-000000000000"
@@ -539,6 +539,12 @@
         },
         {
           "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
           "show": true
@@ -571,8 +577,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "LCSC Part #"
     },
     "connection_grid_size": 50.0,
     "drawing": {
