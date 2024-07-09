@@ -568,6 +568,7 @@
 		)
 	)
 	(model "${KISYS3DMOD}/RF_Bluetooth.3dshapes/E73-2G4M08S1E.wrl"
+		(hide yes)
 		(offset
 			(xyz 0 0 0)
 		)
@@ -590,7 +591,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/lib/PinPoint_lib.pretty/E73-2G4M08S1E.step"
+	(model "${KIPRJMOD}/lib/PinPoint_lib.3dshapes/E73-2G4M08S1E.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -601,7 +602,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/lib/PinPoint_lib.pretty/E73-2G4M08S1E.wrl"
+	(model "${KIPRJMOD}/lib/PinPoint_lib.3dshapes/E73-2G4M08S1E.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
